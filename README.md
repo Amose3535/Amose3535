@@ -8,8 +8,7 @@
 ## 📦 Stuff
 - My biggest ongoing project is 🪐[Solarius](https://www.solarius.solar).
 - Other projects:
-  - 📊[BudgetBuddy](https://github.com/Amose3535/BudgetBuddy)📊
-  - ??? Project Senkuu ???
+  - 🎮 Game dev (Secret)
   - & A lot more!
 
 ## 📫 Contacts

@@ -2,7 +2,7 @@
 
 ## ℹ️ About me
 
-- I'm Amose, a computer science student that's passionate about Gamedev, Webdev and generic app development with (at the time of 2024) a simple background of networking.
+- I'm Amose, a computer engineering student that's passionate about Gamedev, Webdev and generic app development with (at the time of 2024) a simple background of networking.
 - I love spending time problem solving because i find it almost like a puzzle that will reward me upon completion.
 
 ## 📦 Stuff

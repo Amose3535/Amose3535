@@ -15,7 +15,7 @@
 
 - 📧 Personal e-mail: [buzziamose@gmail.com](mailto://buzziamose@gmail.com) 📧
 - ✉️ Institutional e-mail: [s336975@studenti.polito.it](mailto://s336975@studenti.polito.it)✉️
-- 🖋️ Portfolio: [Amush](https://www.solarius.solar/amush) 
+- 🖋️ Portfolio: [Amush](https://Amose3535.github.io/portfolio) 
 
 <!--
 **Amose3535/Amose3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

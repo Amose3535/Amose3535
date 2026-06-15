@@ -8,7 +8,7 @@
 ## 📦 Stuff
 - My biggest ongoing project is 🪐[Solarius](https://www.solarius.solar).
 - Other projects:
-  - 🎮 Game dev (Secret)
+  - 🎮 Game dev
   - & A lot more!
 
 ## 📫 Contacts
